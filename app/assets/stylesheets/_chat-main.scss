@@ -28,6 +28,9 @@
         display: flex;
         font-size: 12px;
         color: $mainLightGray;
+          li {
+            margin-left: 0.3rem;
+          }
       }
     }
 
