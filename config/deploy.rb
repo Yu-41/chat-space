@@ -1,6 +1,6 @@
 lock '3.14.0'
 
-set :application, 'chat-space''
+set :application, 'chat-space'
 
 set :repo_url,  'git@github.com:Yu-41/chat-space.git'
 
